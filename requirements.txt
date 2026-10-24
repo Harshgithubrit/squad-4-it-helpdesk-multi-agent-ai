@@ -1,0 +1,17 @@
+langgraph>=0.2.50,<1.0
+streamlit>=1.38,<2.0
+python-dotenv>=1.0,<2.0
+pydantic>=2.7,<3.0
+opentelemetry-api>=1.25,<2.0
+opentelemetry-sdk>=1.25,<2.0
+opentelemetry-exporter-otlp-proto-http>=1.25,<2.0
+# Optional real providers (install one if needed):
+langchain-anthropic>=0.2,<1.0
+langchain-openai>=0.2,<1.0
+
+# API, authentication, and dependency injection
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+PyJWT>=2.9,<3.0
+python-multipart>=0.0.9,<1.0
+httpx>=0.27,<1.0

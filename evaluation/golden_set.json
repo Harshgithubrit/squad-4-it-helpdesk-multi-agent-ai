@@ -1,0 +1,4 @@
+[
+  {"ticket_id":"HD-001","initial_message":"I cannot log in to my company account after resetting my password.","resolution_summary":"Verify the username, confirm the password reset completed, check whether the account is locked, and contact IT if access is still blocked."},
+  {"ticket_id":"HD-002","initial_message":"My laptop is connected to Wi-Fi but the internet is not working.","resolution_summary":"Check whether other devices can access the internet, reconnect to Wi-Fi, restart the network adapter, and verify VPN settings."}
+]
